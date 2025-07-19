@@ -63,6 +63,11 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				}
 			},
+			backgroundImage: {
+				'gradient-wellness': 'var(--gradient-wellness)',
+				'gradient-break': 'var(--gradient-break)',
+				'gradient-active': 'var(--gradient-active)',
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
